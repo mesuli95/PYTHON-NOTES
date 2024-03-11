@@ -1,2 +1,2 @@
 # python-week-1
-ttt
+introduction to python
