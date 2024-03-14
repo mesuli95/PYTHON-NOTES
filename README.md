@@ -3,6 +3,9 @@ Introduction to Python
 
 * the introduction of using commands and how to navigate them
 * learnt how to apply the syntax of python
+  
+Variables and Operators, data structure
+  
 * apply how to use different variables within python, such int, floats and decimal numbers
 * got familier with the use of output variable to produce the task performed, such as normally used variable print()
 * the application of true or false value, which is another variable in python
@@ -11,14 +14,24 @@ Introduction to Python
 * the operators on strings, the use of operator to add two strings
 * Completed some exercises to test myself how to narvigate with these different operators 
 * got to learn about boolean values (True or False)
+
+Lists, Sets, Dictionaries and Tuples
+  
 * learnt how lists are used to store multiple items in a single variable using square brackets [ ]
+* A set is a collection which is unordered, unchangeable, and unindexed. they using 
 * also got to do some exercises to test myself how to list items in a variable
 * learnt about dictionaries on how they are constructed and applied using curly { }, and they have keys and values
+
+Methods that are used in python
+
 * learnt how to use different methods such as
 * remove() to remove from the list
 * pop() to remove the specified index 
 * del also remove specified index
 * clear() emptied the list
+* 
+Control flow (if statements, elif
+
 * got to learn how if statements are constructed to check the condition
 * got to learn of elif keyword which is used if previous conditions were not true
 * also got to learn how else keyword function to catches anything that is catched by preeciding conditions
