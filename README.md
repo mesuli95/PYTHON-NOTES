@@ -20,7 +20,14 @@ Introduction to Python
 * del also remove specified index
 * clear() emptied the list
 * got to learn how if statements are constructed to check the condition
+* got to learn of elif keyword which is used if previous conditions were not true
+* also got to learn how else keyword function to catches anything that is catched by preeciding conditions
 * learnt how loops are used in python to execute statements
 * With the while loop we can execute a set of statements as long as a condition is true
 * with for loop i learnt that you can execute sets of statements 
-      
+* learnt about tuples how they are differentiated from sets and lists using different brackets, for tuples we use curly brackets ()
+* also learnt how lists are constructed using square brackets [ ]
+* learnt that the factorial represented by a exclamation mark after a number
+* also that is equal to the product of that number, all the integers below it to one
+* also learnt that is important to check the input
+* 
