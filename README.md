@@ -9,3 +9,9 @@ Introduction to Python
 * data structures to asign mutliple variables
 * the use of arithmetic operation to perform calculations
 * the operators on strings, the use of operator to add two strings
+* Completed some exercises to test myself how to narvigate with these different operators 
+* got to learn about boolean values (True or False)
+* learnt how lists are used to store multiple items in a single variable using square brackets []
+* also got to do some exercises to test myself how to list items in a variable
+* 
+* 
