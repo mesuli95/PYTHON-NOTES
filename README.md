@@ -66,8 +66,12 @@ Functions
 
 Classes and Objects
 
-* When we define a class, we use an uppercase letter for the class name, and we start defining all the functions and attributes inside the class definition
-* We usually begin by creating a special function called the initialization function, or "init" function, which gets called every time an instance of the class is created
+* when we define a class, we use an uppercase letter for the class name, and we start defining all the functions and attributes inside the class definition
+* we usually begin by creating a special function called the initialization function, or "init" function, which gets called every time an instance of the class is created
+* almost everything in Python is an object, with its properties and methods
+* a Class is like an object constructor, or a "blueprint" for creating objects
 * 
+
+
   
 
