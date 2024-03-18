@@ -73,6 +73,7 @@ Functions
 Classes and Objects
 
 * When we define a class, we use an uppercase letter for the class name, and we start defining all the functions and attributes inside the class definition
+* We usually begin by creating a special function called the initialization function, or "init" function, which gets called every time an instance of the class is created
 * 
   
 
