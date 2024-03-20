@@ -75,6 +75,10 @@ Int and Floats
 
 * python automatically returns a float to accomodate non-whole numbers
 * adding a float to an int or multiplying or using exponents
+* if you pass a second argument as a number it will convert the first argument as a number, it will convert the first argument from thaat base to base 10.
+
+
+  
   
 
 
