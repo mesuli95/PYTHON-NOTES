@@ -115,6 +115,9 @@ Multiple-line strings
 <details>
  <summary> Week 2 </summary>
 
-kj
+Functions
+
+* we call the function performaOperation with two parameters to determine the sum by using the operation "sum"
+* 
  
 </details>
