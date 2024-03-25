@@ -1,8 +1,8 @@
 <details>
  <summary> Python-week-1 </summary>
-#Introduction to Python
-* the introduction of using commands and how to navigate them
-* learnt how to apply the syntax of python
+Introduction to Python
+ * the introduction of using commands and how to navigate them
+ * learnt how to apply the syntax of python
   
 Variables and Operators, data structure
   
