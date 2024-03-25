@@ -1,4 +1,5 @@
-# Python-week-1
+<details>
+ <summary> Python-week-1 </summary>
  # Introduction to Python
 * the introduction of using commands and how to navigate them
 * learnt how to apply the syntax of python
@@ -108,3 +109,4 @@ Multiple-line strings
 * python has a handy feature for creating multi-line strings by using triple quotes
 * if we to include literal triple quotes in the string, we can escape them with backlash.
  
+</details>
