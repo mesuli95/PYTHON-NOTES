@@ -110,3 +110,9 @@ Multiple-line strings
 * if we to include literal triple quotes in the string, we can escape them with backlash.
  
 </details>
+<details>
+ <summary> Week 2 </summary>
+
+kj
+ 
+</details>
