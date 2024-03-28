@@ -118,6 +118,12 @@ Multiple-line strings
 Functions
 
 * we call the function performaOperation with two parameters to determine the sum by using the operation "sum"
+* to address this we can assign a default value to the operation parameter using name parameters or keyword arguments
+* when calling the function, pass in the message before or after the operation, as long as we specify which argument is which by using a comma to seperate them.
+* args, there is a rule when using keyword arguments in python i.e they must come after the positional arguments
+* while optional arguments are useful there is a funtional limitation to how many variables can be 
+* if you want to allow users to pass in any number of variables, use the asterisk symbol before the argument name to create a pointer to the inputted variables.
+* 
 * 
  
 </details>
