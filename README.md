@@ -1,6 +1,8 @@
 <details>
  <summary> Python-week-1 </summary>
+ 
 Introduction to Python
+ 
  * the introduction of using commands and how to navigate them
  * learnt how to apply the syntax of python
   
@@ -106,13 +108,41 @@ Formatting
 
 Multiple-line strings
 
-* python has a handy feature for creating multi-line strings by using triple quotes
+* python has a handy feature for creating multi-line strings by using triple quotes.
 * if we to include literal triple quotes in the string, we can escape them with backlash.
  
 </details>
 <details>
  <summary> Week 2 </summary>
 
-kj
+Functions
+
+* we call the function performaOperation with two parameters to determine the sum by using the operation "sum"
+* to address this we can assign a default value to the operation parameter using name parameters or keyword arguments
+* when calling the function, pass in the message before or after the operation, as long as we specify which argument is which by using a comma to seperate them.
+* args, there is a rule when using keyword arguments in python i.e they must come after the positional arguments
+* while optional arguments are useful there is a funtional limitation to how many variables can be 
+* if you want to allow users to pass in any number of variables, use the asterisk symbol before the argument name to create a pointer to the inputted variables.
+* There is a rule when using keyword arguments in Python i.e. they must come after the positional arguments.
+* The order of the first two arguments is important and cannot be changed. However, after these mandatory arguments, the keyword arguments can be in any order.
+* While optional arguments are useful, there is a functional limitation to how many variables can be anticipated.
+* If we want to allow users to pass in any number of variables, use the asterisk symbol before the argument name to create a pointer to the inputted variables.
+* in order to handle keyword arguments, a method called kwargs can be used. Kwags is short for keyword arguments.
+* Print kwargs to see that the keyword arguments are now stored as a dictionary instead of a tuple.
+* This makes sense because keyword arguments have keys and values and can be passed in any order, so a dictionary is a more appropriate data structure for referencing them.
+
+Variable and Scope
+
+* In our earlier section, *args and **kwargs were used to print out the arguments passed into a function.
+* This allowed us to see a tuple and dictionary of the passed arguments. However, there's another method that allows us to access all the variables within a Python function without any asterisks. This method is called the "locals" function.
+
+* Locals()
+   * Why is it named locals? These are the variable names that are only accessible locally within the function.
+   * Remember, variables can be defined by any name within the function definition, and it will be available anywhere within that function.
+   * However, trying to reference a variable outside its scope will result in an error.
+   * in Python, there are two types of variables: local variables, which are defined inside the function, and global variables, which are defined outside the function in the main code block.
+   * Thankfully, Python comes with a handy built-in function called globals that enables us to retrieve all of these variables.
+ 
+* Global()
  
 </details>
