@@ -1,5 +1,5 @@
 <details>
- <summary> Python-week-1 </summary>
+ <summary> week 1 </summary>
  
 Introduction to Python
  
@@ -134,8 +134,10 @@ Functions
 Variable and Scope
 
 * In our earlier section, *args and **kwargs were used to print out the arguments passed into a function.
-* This allowed us to see a tuple and dictionary of the passed arguments. However, there's another method that allows us to access all the variables within a Python function without any asterisks. This method is called the "locals" function.
+* This allowed us to see a tuple and dictionary of the passed arguments. However, there's another method that allows us to access all the variables within a Python function without any asterisks. This method is called the "locals"
+* However trying to reference outside it's scope will result in the error
 
+  
 * Locals()
    * Why is it named locals? These are the variable names that are only accessible locally within the function.
    * Remember, variables can be defined by any name within the function definition, and it will be available anywhere within that function.
@@ -144,5 +146,15 @@ Variable and Scope
    * Thankfully, Python comes with a handy built-in function called globals that enables us to retrieve all of these variables.
  
 * Global()
+   * global variables are declared outside the function, you can access them throughout the program
+   * if we define a vraible, meessage in the global scope and print in both functions, we can see they have access to it
+   * pythom has multiple has a lot of backgrounds processes going on the scope of variables available.
+ 
+ * lambda funcions
+   * lambda functions can come in handy when you need to pass a function as an argument to another python function, such as sorted function that sorts a list of values
+   * for instance if there is a list dictionaries and it needs to be sorted them based on a specific key, use the key parameter of sorted function
+   * lambda functions are consise and convient for writing small functions that you need while writing code
+   * use lambda function when an anonymous function is required for a short period of time
+   * lambda use one expression
  
 </details>
