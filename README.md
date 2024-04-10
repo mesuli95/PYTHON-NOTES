@@ -173,6 +173,7 @@
 * We are going to catch the zero division specifically. There was a zero division error, and now that prints out. A type error statement can also be added, except type error and printed. But of course, there was a zero division error, not a type error. 
 
  <details>
+  </details>
  <summary> Week 3 </summary>
 
  # GUI
@@ -180,4 +181,4 @@
  * learnt how to build a gui
  * learnt how to use Tkinter
  
-</details>
+
