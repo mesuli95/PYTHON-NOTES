@@ -172,6 +172,19 @@
 
 * We are going to catch the zero division specifically. There was a zero division error, and now that prints out. A type error statement can also be added, except type error and printed. But of course, there was a zero division error, not a type error. 
 
+# Custom decorators
+
+* learnt how custom decorators work and they can be created.
+* got to know how they work.
+
+# Raising Exceptions
+
+* Add an argument and say if n is equal to zero, we raise an exception. Otherwise, we print n.
+* an else statement is not used when raising an exceptions
+* this is not needed because once the exception is raised, this execution will halt, and throw this exception and then the print n will never be reached.
+* We, therefore, do not need an else statement there.
+
+
  </details>
 
  
