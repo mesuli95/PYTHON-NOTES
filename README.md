@@ -184,6 +184,22 @@
 * this is not needed because once the exception is raised, this execution will halt, and throw this exception and then the print n will never be reached.
 * We, therefore, do not need an else statement there.
 
+# Multiprocessing and multithreading
+
+ # Multiprocessing 
+
+ * The operating system is responsible for allocating memory to each process running on the computer. It puts walls between the processes so they cannot access each other's memory. Memory is not one giant vague blob like implied. It is segmented. Access is controlled by the operating system.
+
+
+# Multithreading
+
+* A process can have multiple threads and execute code at the same time in parallel. Everything we have been doing in Python so far has been inside a single thread, inside a single process i.e. we compute each statement sequentially, but in this chapter, we are going to start computing things in parallel, inside different threads and processes.
+* The other programmers are going to look at your code and say, "Nice threads." First, import the threading and time modules.
+
+
+# Accessing files
+
+
 
  </details>
 
